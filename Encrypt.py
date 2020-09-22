@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-.
-# Coding By Mr.Gaming
+# Coding By KangSmail01
 # My team : Bcc or Black Coder Crush
-# greet : ibnusyawal , Alviyan, Mayatkontol, CapthaCode404_, angga, chmod7 , omest , 4K17, Dfv47, Mr.Tr3v!0n, Holilul Anwar, R.I.P XerXez7, Mr.Đ`HACK, agung, Mr.g0y4n9, mie gelas, Tampansky ID, Mr. Karwek, Zhu Bai Lee,BL4CK DR460N, Mr. XsZ, EvCf1703,Phantomblizt,Tn. Crash
+# greet : ibnusyawal , Alviyan, Mayatkontol, CapthaCode404_, angga, chmod7 , omest , 4K17, Dfv47, Mr.Tr3v!0n, Holilul Anwar, R.I.P XerXez7, Mr.Đ`HACK, agung, Mr.g0y4n9, mie gelas, Tampansky ID, Mr. Karwek, Zhu Bai Lee,BL4CK DR460N, Mr. XsZ, EvCf1703,Phantomblizt,Tn. Crash, KangSmail01
 import random,base64,marshal,hashlib,argparse
 
 BLACK_MAGIC = '\x03\xf3\r\nd\x83\x8e^' #  Compiled at: 2020-04-09 09:07:32 
